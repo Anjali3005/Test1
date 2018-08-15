@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13744" started-at="2018-08-14T15:57:54Z" finished-at="2018-08-14T15:58:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13744" started-at="2018-08-14T15:57:54Z" finished-at="2018-08-14T15:58:08Z">
+      <class name="AmazonTest.Ads.Alexa">
+        <test-method status="PASS" signature="testAlexa()[pri:0, instance:AmazonTest.Ads.Alexa@57fffcd7]" name="testAlexa" duration-ms="13687" started-at="2018-08-14T08:57:54Z" finished-at="2018-08-14T08:58:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAlexa -->
+      </class> <!-- AmazonTest.Ads.Alexa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
